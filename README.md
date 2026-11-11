@@ -37,9 +37,3 @@ Of gebruik de VS Code extensie **Live Server**. Je hebt geen build of installati
 3. [GitButler installeren en instellen](exercises/03-gitbutler-setup.md)
 4. [GitButler flow](exercises/04-gitbutler-flow.md)
 5. [Je echte project](exercises/05-real-project.md)
-
-## Setup voor de docent
-
-1. Zet deze map als **template repository** op GitHub.
-2. Duo's maken via **Use this template** een eigen repo (bv. `git-oefening-<naam1>-<naam2>`) en voegen elkaar toe als collaborator.
-3. Branch protection voor oefening 2 doen ze zelf.
